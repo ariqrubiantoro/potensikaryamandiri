@@ -22,4 +22,4 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         port: 21  # Replace with the correct port if it's different
         local-dir: ./  # This is the directory to deploy; adjust as needed
-        server-dir: /public_html/  # Adjust if your site is in a subdirectory
+        server-dir: /potensikaryamandiri.com/  # Adjust if your site is in a subdirectory
